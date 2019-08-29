@@ -95,7 +95,7 @@ def adding_matz
     
 end
 
-def 
+def alans_new_info
 	programmer_hash = 
  		{
         :grace_hopper => {
@@ -111,10 +111,7 @@ def
           :languages => ["C"]
         }
      }
-     #change what Alan Kay is :known_for to the value of the alans_new_info variable. 
-     alans_new_info = "GUI"
-     
-     
+   end
 end
 
 def adding_to_dennis
@@ -133,5 +130,5 @@ def adding_to_dennis
           :languages => ["C"]
         }
      }
-
+end
 end
